@@ -1,0 +1,32 @@
+body{font-family: Arial, Helvetica, sans-serif;
+    size: 15px;
+background-color: white;}
+p {font-size: 20px; justify-content: center;
+    }
+li {font-size: 14px;
+font-weight: normal;
+text-decoration: normal;}
+
+a {color: black; display: inline; font-size: large; align-items: center;}
+
+.resumelistHeading {font-weight: bold;
+font-style: normal;}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    }
+
+.underline {text-decoration: underline;}
+.justify {text-align: justify;}
+
+.homebckg {background-image: url('../html/dog-wj7msvc5kj9v6cyy.jpeg');
+            background-position: top right;}
+
+img {align-items: center;}        
+
+iframe {align-items: center;}
+
+ol {font-size: 20px;}
+
+ul {font-size: 16px;}
